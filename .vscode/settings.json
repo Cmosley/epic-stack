@@ -1,0 +1,32 @@
+{
+  "typescript.preferences.autoImportFileExcludePatterns": [
+    "@remix-run/server-runtime",
+    "@remix-run/router",
+    "express",
+    "@radix-ui/**",
+    "react-router",
+    "stream/consumers",
+    "node:stream/consumers"
+  ],
+  "tailwindCSS.experimental.classRegex": [["cn\\(([^)]*)\\)"]],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#e6db9a",
+    "activityBar.background": "#e6db9a",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#269989",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#e6db9a",
+    "statusBar.background": "#dccd71",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#d2bf48",
+    "statusBarItem.remoteBackground": "#dccd71",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#dccd71",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#dccd7199",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.remoteColor": "#dccd71"
+}
